@@ -31,7 +31,7 @@
 * **面临痛点**：知识截断 (时效性差) / 上下文窗口限制 (Token Limit) / 中间遗忘现象
 * **破局技术**：RAG (检索增强生成) / 文档切分 (Chunking) / 向量化 (Embedding) / 语义检索 / Prompt 注入
 
-### [第三章：长出手脚，彻底觉醒 —— Agent 智能体的诞生](./docs/03-Agent-Action.md) ✅
+### [第三章：长出手脚，彻底觉醒 —— Agent 智能体的诞生](./docs/03-Agent-Action.md)
 *空有满腹经纶却连个文件夹都建不了？是时候解锁大模型的终极形态了！*
 * **核心能力**：AI Agent / 技能系统 (Skills) / 记忆系统 (Memory) / 机器连接协议 (MCP) / Agent 框架 (Harness) / 命令行工具 (CLI)
 * **进阶话题**：多 Agent 协作系统 / 安全性与可靠性 / 未来发展趋势
